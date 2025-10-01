@@ -1,0 +1,28 @@
+{
+  "starred": false,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2016-09-02T22:41:42Z",
+  "last_modified_by_me": "2016-09-02T22:41:42Z",
+  "content_last_modified": "2016-09-02T22:41:42Z",
+  "created": "2016-09-02T22:42:13.471Z",
+  "permissions": [
+    {
+      "id": "08614820982092538975",
+      "name": "saka1029",
+      "type": "user",
+      "role": "owner",
+      "value": "saka1029@gmail.com",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocJCpVG7OddCLAgT9FbDkq8ZBUeYfEawKwVlvCD8zKCQjrRaaDwa=s64",
+      "email_address": "saka1029@gmail.com",
+      "domain": "gmail.com",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "PROTREK-qw3069.pdf",
+  "drive_id": "0BwjXizhch9lYc1JGWW54aWEtRDg",
+  "mime_type": "application/pdf",
+  "download_url": "https://drive.google.com/file/d/0BwjXizhch9lYc1JGWW54aWEtRDg/view?usp=drive_web&resourcekey=0-09ofBYx6SbYup3f0NUZBYw",
+  "expected_item_size": 3044184
+}

@@ -1,0 +1,28 @@
+{
+  "starred": false,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2021-10-29T21:24:32.572Z",
+  "last_modified_by_me": "2021-10-29T21:24:32.572Z",
+  "content_last_modified": "2021-10-29T21:24:32.572Z",
+  "created": "2021-10-29T05:48:28.790Z",
+  "permissions": [
+    {
+      "id": "08614820982092538975",
+      "name": "saka1029",
+      "type": "user",
+      "role": "owner",
+      "value": "saka1029@gmail.com",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocJCpVG7OddCLAgT9FbDkq8ZBUeYfEawKwVlvCD8zKCQjrRaaDwa=s64",
+      "email_address": "saka1029@gmail.com",
+      "domain": "gmail.com",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "楽天モバイル STARTGUIDE-eSIM.pdf",
+  "drive_id": "1-7hqOmtAfyb13ohLE74EKzPzp_UBc_0v",
+  "mime_type": "application/pdf",
+  "download_url": "https://drive.google.com/file/d/1-7hqOmtAfyb13ohLE74EKzPzp_UBc_0v/view?usp=drive_web",
+  "expected_item_size": 17278565
+}

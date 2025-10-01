@@ -1,0 +1,28 @@
+{
+  "starred": false,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2020-01-19T01:05:45.109Z",
+  "last_modified_by_me": "2020-01-19T01:05:45.109Z",
+  "content_last_modified": "2020-01-19T01:05:45.109Z",
+  "created": "2020-01-19T01:05:47.246Z",
+  "permissions": [
+    {
+      "id": "08614820982092538975",
+      "name": "saka1029",
+      "type": "user",
+      "role": "owner",
+      "value": "saka1029@gmail.com",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocJCpVG7OddCLAgT9FbDkq8ZBUeYfEawKwVlvCD8zKCQjrRaaDwa=s64",
+      "email_address": "saka1029@gmail.com",
+      "domain": "gmail.com",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "PersonalDictionary2.zip",
+  "drive_id": "18SjoVIJVfOBydelqq5roLyqX12ZXnijP",
+  "mime_type": "application/zip",
+  "download_url": "https://drive.google.com/file/d/18SjoVIJVfOBydelqq5roLyqX12ZXnijP/view?usp=drive_web",
+  "expected_item_size": 286
+}

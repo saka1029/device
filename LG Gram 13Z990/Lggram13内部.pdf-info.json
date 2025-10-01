@@ -1,0 +1,28 @@
+{
+  "starred": false,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2020-03-09T06:28:39Z",
+  "last_modified_by_me": "2020-03-09T06:28:39Z",
+  "content_last_modified": "2020-03-09T06:28:39Z",
+  "created": "2020-03-11T10:15:59.826Z",
+  "permissions": [
+    {
+      "id": "08614820982092538975",
+      "name": "saka1029",
+      "type": "user",
+      "role": "owner",
+      "value": "saka1029@gmail.com",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocJCpVG7OddCLAgT9FbDkq8ZBUeYfEawKwVlvCD8zKCQjrRaaDwa=s64",
+      "email_address": "saka1029@gmail.com",
+      "domain": "gmail.com",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "Lggram13内部.pdf",
+  "drive_id": "1hY4dsUgBDr0KyKmHg6pSMnarhExk9HZM",
+  "mime_type": "application/pdf",
+  "download_url": "https://drive.google.com/file/d/1hY4dsUgBDr0KyKmHg6pSMnarhExk9HZM/view?usp=drive_web",
+  "expected_item_size": 2020905
+}

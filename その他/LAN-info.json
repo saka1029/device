@@ -1,0 +1,27 @@
+{
+  "starred": false,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2020-01-24T07:06:25.054Z",
+  "last_modified_by_me": "2020-01-24T07:06:25.054Z",
+  "content_last_modified": "2020-01-24T07:06:25.054Z",
+  "created": "2020-01-24T07:04:49.351Z",
+  "permissions": [
+    {
+      "id": "08614820982092538975",
+      "name": "saka1029",
+      "type": "user",
+      "role": "owner",
+      "value": "saka1029@gmail.com",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocJCpVG7OddCLAgT9FbDkq8ZBUeYfEawKwVlvCD8zKCQjrRaaDwa=s64",
+      "email_address": "saka1029@gmail.com",
+      "domain": "gmail.com",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "LAN",
+  "drive_id": "1ViWrO5w97NsXT2kgyb1lkTVw2-x5itQzQI_mzS816dc",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "download_url": "https://docs.google.com/document/d/1ViWrO5w97NsXT2kgyb1lkTVw2-x5itQzQI_mzS816dc/edit?usp=drive_web"
+}

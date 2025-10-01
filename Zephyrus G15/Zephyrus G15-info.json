@@ -1,0 +1,27 @@
+{
+  "starred": false,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2023-12-05T13:47:34.086Z",
+  "last_modified_by_me": "2023-12-05T13:47:34.086Z",
+  "content_last_modified": "2023-12-05T13:47:34.086Z",
+  "created": "2023-11-29T07:44:03.900Z",
+  "permissions": [
+    {
+      "id": "08614820982092538975",
+      "name": "saka1029",
+      "type": "user",
+      "role": "owner",
+      "value": "saka1029@gmail.com",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocJCpVG7OddCLAgT9FbDkq8ZBUeYfEawKwVlvCD8zKCQjrRaaDwa=s64",
+      "email_address": "saka1029@gmail.com",
+      "domain": "gmail.com",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "Zephyrus G15",
+  "drive_id": "1BRTtpycn67XCxqAKjWcbgDU7z4zBQbRbzV2Xd5bNXz8",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "download_url": "https://docs.google.com/document/d/1BRTtpycn67XCxqAKjWcbgDU7z4zBQbRbzV2Xd5bNXz8/edit?usp=drive_web"
+}

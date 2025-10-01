@@ -1,0 +1,27 @@
+{
+  "starred": false,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2019-11-04T11:53:40.190Z",
+  "last_modified_by_me": "2019-11-04T11:53:40.190Z",
+  "content_last_modified": "2019-11-04T11:53:40.190Z",
+  "created": "2019-11-04T11:53:36.212Z",
+  "permissions": [
+    {
+      "id": "08614820982092538975",
+      "name": "saka1029",
+      "type": "user",
+      "role": "owner",
+      "value": "saka1029@gmail.com",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocJCpVG7OddCLAgT9FbDkq8ZBUeYfEawKwVlvCD8zKCQjrRaaDwa=s64",
+      "email_address": "saka1029@gmail.com",
+      "domain": "gmail.com",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "その他",
+  "drive_id": "15Adcp6t_PTU1tRKBZpf3TYwnm8Qc-xoB",
+  "mime_type": "application/vnd.google-apps.folder",
+  "download_url": "https://drive.google.com/drive/folders/15Adcp6t_PTU1tRKBZpf3TYwnm8Qc-xoB"
+}

@@ -1,0 +1,28 @@
+{
+  "starred": false,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2015-11-24T00:05:12.012Z",
+  "last_modified_by_me": "2015-11-24T00:05:12.012Z",
+  "content_last_modified": "2015-11-24T00:05:12.012Z",
+  "created": "2015-11-24T00:05:12.174Z",
+  "permissions": [
+    {
+      "id": "08614820982092538975",
+      "name": "saka1029",
+      "type": "user",
+      "role": "owner",
+      "value": "saka1029@gmail.com",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocJCpVG7OddCLAgT9FbDkq8ZBUeYfEawKwVlvCD8zKCQjrRaaDwa=s64",
+      "email_address": "saka1029@gmail.com",
+      "domain": "gmail.com",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "J10021_ZE500KL_EM_WEB_only.pdf",
+  "drive_id": "0BwjXizhch9lYSTNJTl9sVnI3bEk",
+  "mime_type": "application/pdf",
+  "download_url": "https://drive.google.com/file/d/0BwjXizhch9lYSTNJTl9sVnI3bEk/view?usp=drive_web&resourcekey=0-zJDJSke60JCfxgErmTQ_hA",
+  "expected_item_size": 5355639
+}
